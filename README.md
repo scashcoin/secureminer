@@ -1,5 +1,4 @@
-# secureminer
-SecureMiner - GUI CPU Miner software
+# SecureMiner - GUI CPU Miner software
 
 Version 0.0.1-alpha
 
